@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @ekelmans
+- 👀 I’m interested in all thing SQL and tech
+- 🌱 I’m currently learning to code in C#
+- 📫 How to reach me: theo@ekelmans.com
